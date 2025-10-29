@@ -1,8 +1,4 @@
-Absolutely — here’s a clean, modern, and visually appealing GitHub Profile README you can copy into your README.md:
-
-⸻
-
-✨ Hi, I’m Hans!
+✨ Hi, I’m Hans (Yong Shen Wong)!
 
 🚀 Web Developer & Computer Science Student @ UCO
 💡 I love building modern, intuitive, and scalable web applications.
